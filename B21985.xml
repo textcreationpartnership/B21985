@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration or ordinance of the Lords and Commons assembled in Parliament concerning the taking of horses for the service of the Parliament in the severall counties of England in such a manner that neither the countries may take distaste or be discouraged nor the Parliament injured by the corruptnesse of the officers assigned for that purpose : with two other ordinances for the amendment of divers abuses which have formerly beene committed by those that were entrusted with commissions of that nature.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21985</idno><idno type="EEBO-CITATION">12179697</idno>
+  <idno type="VID">197242</idno>
+  <idno type="EEBO-PROQUEST">2240947199</idno>
+  
+            <idno type="STC">Wing E1515</idno>
+            <idno type="OCLC">12179697</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E101, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration or ordinance of the Lords and Commons assembled in Parliament concerning the taking of horses for the service of the Parliament in the severall counties of England in such a manner that neither the countries may take distaste or be discouraged nor the Parliament injured by the corruptnesse of the officers assigned for that purpose : with two other ordinances for the amendment of divers abuses which have formerly beene committed by those that were entrusted with commissions of that nature.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for John Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>May 11, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last two ordinances were previously issued separately as broadsides, one with caption, "Die jovis. 23. martii. 1643", the other with title, "An ordinance of the Lords and Commons assembled in Parliament. Die iovis 26 ianuarii, 1642[1643]".</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197242:1"/>
+            <p> A DECLARATION OR ORDINANCE Of The LORDS and COMMONS Assembled in PARLIAMENT.</p>
+            <p>Concerning the taking of Horses for the service of the Parliament in the seve<g ref="char:EOLhyphen"/>rall Counties of <hi>England,</hi> in such a manner that neither the Countries may take distaste or be dis<g ref="char:EOLhyphen"/>couraged, nor the Parliament injured by the corrupt<g ref="char:EOLhyphen"/>nesse of the Officers assigned for that purpose.</p>
+            <p>With two other Ordinances for the amend<g ref="char:EOLhyphen"/>ment of divers abuses which have formerly beene committed by those that were entrusted with Com<g ref="char:EOLhyphen"/>missions of that nature:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 10. Maii, 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that these Ordinances shall be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamento.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>May 11. Printed for John Wright, in the Old-Bailey. 1643.</p>
+            <pb facs="tcp:197242:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:197242:2"/>
+            <head>A DECLARATION OR ORDINANCE Of the Lords and Commons Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii,</hi> 10. <hi>Maii,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons now assem<g ref="char:EOLhyphen"/>bled in Parliament, being informed of the great abuses in the severall Counties of this Kingdome, by the taking of Horses for the service of the Parliament, by reason the Officers assigned for that purpose, can neither judge of the affections, nor abilities of the people, not knowing what they have contributed, nor in what proportion to the Propositions, and that other Officers doe suffer the Horses so taken, to be sold againe, and other likewise take composition, and spare the Horses that are fit for service; by all which waies and meanes, the Countries are distasted &amp;
+<pb facs="tcp:197242:3"/> discouraged, the Parliament injured contrary to their intentions, &amp; the service much hindred, and prejudiced. It is therefore Declared and Ordai<g ref="char:EOLhyphen"/>ned, That every Captaine, or other Officer, or Souldier, that hath, or shall have any Commis<g ref="char:EOLhyphen"/>sion or Order, to take any Horses within any County, that he or they respectively, repaire to two of the Deputy Lieutenants, or two of the Committees for the Propositions, for raysing, or bringing in of Horses, Plate, and Money, being and residing in those parts or limits, where he or they intend to take such Horses, or if no such Deputy Lieutenants, be in that part of the Coun<g ref="char:EOLhyphen"/>ty, nor any of the Committees, then to the next two Deputy Lieutenants, or Committees dwel<g ref="char:EOLhyphen"/>ling neerest to the place within the said County, and that neither he or they doe take any Horses, without the direction or privity of the said Depu<g ref="char:EOLhyphen"/>ty Lieutenants, or Committees as aforesaid; And that every Horse so taken as aforesaid, be marked by the Deputy Lieutenants, or Commit<g ref="char:EOLhyphen"/>tees, or two of them, and the Captaine, or other Officer, or Souldier, and a Duplicate to bee made, and signed respectively under the hands of the hands of the Deputy Lieutenants, or Com<g ref="char:EOLhyphen"/>mittes as aforesaid, and the said Officer, and Souldier so imployed, and therein to be entred the parties name, from whom the Horse is so ta<g ref="char:EOLhyphen"/>ken, the colour of every Horse, the number taken within that part of the County, and the marke set upon them, one part of the Duplicate to bee sent to the Commissary Generall for the Horse,
+<pb facs="tcp:197242:3"/> belonging to the Army, wherein the Lord Gene<g ref="char:EOLhyphen"/>rall may receive upon all occasions an account, the other to remaine with the said Deputy Lieu<g ref="char:EOLhyphen"/>tenants, or Committees; And if any Officer, or Souldier, shall doe any Act in any County, other<g ref="char:EOLhyphen"/>wise then is here expressed, the Deputy Lieute<g ref="char:EOLhyphen"/>nants, or any of them, shall then have power to stay the said Horses otherwise taken, and also apprehend the Officer, or Souldier, and bring them to the Parliament or the Lord Generall, that he or they may be proceeded against as Con<g ref="char:EOLhyphen"/>temners of the Orders of Parliament, and a<g ref="char:EOLhyphen"/>busers of the Countrie, and disturbers of the Peace thereof.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:197242:4"/>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="ordinance">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Iovis</hi> 23. <hi>Martii.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons Assembled in Parliament, that no person or persons whatsoever, doe at any time from hence<g ref="char:EOLhyphen"/>forth buy, sell, or take to pawn or ex<g ref="char:EOLhyphen"/>change
+<pb facs="tcp:197242:4"/> any Horse, Horses, Muskets, Carabines, Pistols, Pikes, Corslets or any other Armes, marked with the markes above specified, that no Smith, Gun-smith or other person doe upon a<g ref="char:EOLhyphen"/>ny pretences whatsoever, either alter or deface the marke above specified, being either on Horse or Armes. It is further Ordered, that in Case any Horse or Horses marked with this marke, shall fall sicke, Lame, or otherwise for the present prove vnserviceable, That the Constable of the Towne at the charge of that Towne take care to preserve such Horses untill they can be sent unto such as shall be appointed to receive them: And that such as shall receive them shall defray the charges of them, And if any person or persons offend in the premisses, It is Ordered that he or they shall suffer Imprisonment during the pleasure of the House, and to forfeit the goods so bought.</p>
+            <closer>
+               <signed>John Browne Cler. Parliamen</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb facs="tcp:197242:5"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Iovis</hi> 26. <hi>Ianuarii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordayned by the Lords and Commons in Parliament Assembled, That the Ordinance of both Houses of Parliament, dated the 15. day of <hi>November</hi> last past, granted to <hi>Maximilian Bard,</hi> and <hi>Thomas Browne,</hi> and others, for the taking and seizing of Horses, Mares, &amp; Geldings, is here<g ref="char:EOLhyphen"/>by revoked and made voyd, and of none effect, and that if the said <hi>Maximilian Bard,</hi> and <hi>Thomas Browne,</hi> or any o<g ref="char:EOLhyphen"/>thers, shall seize or take any Horses, Mares, or Geldings hereafter, by colour of the said Ordinance, shall be proceeded against as Felons, according to the Lawes of this Land.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
